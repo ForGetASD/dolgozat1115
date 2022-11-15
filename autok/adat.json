@@ -1,0 +1,74 @@
+{
+    "cars":[
+    {
+        "id":1,
+        "brand":"Toyota",
+        "type":"Supra MK4",
+        "engine":"2JZ-GTE",
+        "stock":50
+    },
+    {   
+        "id":2,
+        "brand":"Mazda",
+        "type":"rx7",
+        "engine":"13B-REW Wankel",
+        "stock":50
+    },
+    {   
+        "id":3,
+        "brand":"Mazda",
+        "type":"rx8",
+        "engine":"RENESIS 13B-MSP",
+        "stock":50
+    },
+    {   
+        "id":4,
+        "brand":"Nissan",
+        "type":"Skyline GT-R r34",
+        "engine":"RB26DETT I6",
+        "stock":50
+    },
+    {   
+        "id":5,
+        "brand":"Honda",
+        "type":"Civic Mugen RR",
+        "engine":"K20A",
+        "stock":50
+    },
+    {   
+        "id":6,
+        "brand":"Honda",
+        "type":"Civic Type R",
+        "engine":"2.0 liter VTEC K20C1",
+        "stock":50
+    },
+    {   
+        "id":7,
+        "brand":"Toyota",
+        "type":"Corolla",
+        "engine":"DOHC16",
+        "stock":50
+    },
+    {   
+        "id":8,
+        "brand":"Nissan",
+        "type":"180SX",
+        "engine":"1.8 L CA18DET turbo I4",
+        "stock":50
+    },
+    {   
+        "id":9,
+        "brand":"Honda",
+        "type":"NSX",
+        "engine":"C30A",
+        "stock":50
+    },
+    {   
+        "id":10,
+        "brand":"Subaru Impreza",
+        "type":"WRX STI",
+        "engine":"Turbocharged F-4, DOHC",
+        "stock":50
+    }
+    ]
+}

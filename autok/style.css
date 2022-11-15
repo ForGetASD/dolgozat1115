@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+header h1{
+    text-align: center;
+}
+
+#cars{
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 1700px;
+}
+
+#cars #car{
+    width: 560px;
+    padding: 5px;
+    margin: 1px;
+    border: 1px solid black;
+}
+
+#car{
+    text-align: center;
+}
+
+#car button{
+    height: 20px;
+    width: 150px;
+}
